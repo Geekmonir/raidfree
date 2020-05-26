@@ -294,7 +294,7 @@ $('.scroll-me').bind("click", function(e) {
     e.preventDefault();
 });
 
-var X00Gems = ['<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 999 Credits', '<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 9,999 Credits', '<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 99,999 Credits'];
+var X00Gems = ['<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 999 Gems', '<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 9,999 Gems', '<img src="img/gems-icon.png" alt="" class="cr-gem-icon" /> 99,999 Gems'];
 var X00CF = ['img/cf/UK.png', 'img/cf/US.png', 'img/cf/Germany.png', 'img/cf/Netherlands.png', 'img/cf/Sweden.png', 'img/cf/Australia.png', 'img/cf/France.png', 'img/cf/Switzerland.png'];
 
 function X00Random(X00Minimum, X00Maximum) {
